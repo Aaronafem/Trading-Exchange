@@ -10,7 +10,6 @@ enum class OrderType {
     BUY,
     SELL
 };
-
 // Custom make_unique for C++11 compatibility
 template<typename T, typename... Args>
 std::unique_ptr<T> make_unique(Args&&... args) {

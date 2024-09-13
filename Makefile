@@ -22,5 +22,6 @@ $(OUT): $(SRC)
 clean:
 	rm -f $(OUT)
 
+
 # Phony targets
 .PHONY: all clean
