@@ -1,7 +1,7 @@
 Compile and run this through a terminal environment: g++ -std=c++17 -I../include main.cpp order.cpp orderbook.cpp helpers.cpp -o main && ./main
 
 The concept of electronic trading and the evolution of the order book, like the one simulated here, traces its origins back to the early 1980s. 
-Prior to this era, stock trading was primarily done through face-to-face interaction on the trading floors of stock exchanges, where traders would shout 
+Prior to this era, stock trading was primarily done through face-to-face interaction on the trading floors of stock exchanges known as "trading pits", where traders would shout 
 out bids and offers in a chaotic environment often referred to as the "open outcry" system. This system, while functional for decades, was prone to 
 inefficiencies, lack of transparency, and human error.
 
